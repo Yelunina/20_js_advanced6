@@ -42,3 +42,10 @@ for (var i = 0; i < 10; i++) {
 //         console.log(i);
 //     }, 1000);
 // }
+
+// Solution 6 -> :)
+// for (var i = 0; i < 10; i++) {
+//     setTimeout(function () {
+//         console.log(i++ % 10);
+//     }, 1000);
+// }
